@@ -1,0 +1,7 @@
+C:\Users\is185052\Documents\Visual Studio 2015\Projects\Tiers Model\BuisnessLogical\bin\Debug\BuisnessLogical.dll
+C:\Users\is185052\Documents\Visual Studio 2015\Projects\Tiers Model\BuisnessLogical\bin\Debug\BuisnessLogical.pdb
+C:\Users\is185052\Documents\Visual Studio 2015\Projects\Tiers Model\BuisnessLogical\bin\Debug\DataAccessLayer.dll
+C:\Users\is185052\Documents\Visual Studio 2015\Projects\Tiers Model\BuisnessLogical\bin\Debug\DataAccessLayer.pdb
+C:\Users\is185052\Documents\Visual Studio 2015\Projects\Tiers Model\BuisnessLogical\obj\Debug\BuisnessLogical.csprojResolveAssemblyReference.cache
+C:\Users\is185052\Documents\Visual Studio 2015\Projects\Tiers Model\BuisnessLogical\obj\Debug\BuisnessLogical.dll
+C:\Users\is185052\Documents\Visual Studio 2015\Projects\Tiers Model\BuisnessLogical\obj\Debug\BuisnessLogical.pdb
